@@ -36,7 +36,7 @@ const Contact = () => {
                 </div>
                 <div className='box'>
                   <FiHelpCircle size={30} className='icons' />
-                  <h3>info@dream-theme.com</h3>
+                  <h3>fawadinam23@gmail.com</h3>
                   <span>Drop us a line anytime!</span>
                 </div>
                 {/* <div className='box'>
