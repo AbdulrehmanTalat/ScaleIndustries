@@ -13,7 +13,7 @@ const Hero = () => {
       <section className='hero'>
         <div className='container'>
           {/* <TitleLogo title='creative' caption='7' className='logobg' /> */}
-          <img src="/images/scaleinclogo.png" alt="Scale Inc Logo" height={150} width={220} />
+          <img src="/images/scaleinclogo.png" alt="Scale Inc Logo" height={290} width={520} />
           <h1 className='hero-title'>Accelerating growth</h1>
 
           <div className='sub-heading'>
