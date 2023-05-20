@@ -27,7 +27,7 @@ const Contact = () => {
                 <div className='box'>
                   <IoLocationOutline size={30} className='icons' />
                   <h3>Pakistan</h3>
-                  <span>Gulshan e lahore</span>
+                  <span>9A, Gulshan e Lahore, Lahore, Pakistan</span>
                 </div>
                 <div className='box'>
                   <IoLocationOutline size={30} className='icons' />
