@@ -24,96 +24,64 @@ export const home = [
 export const expertise = [
   {
     id: 1,
-    title: "Web Design & Development",
-    cover: "../images/e1.jpg",
-    desc: [{ text: "Web design" }, { text: "Web development" }, { text: "Custom icons & illustrations" }, { text: "Hosting" }, { text: "Website audit" }],
+    title: "Data Strategy & Data Science",
+    cover: "../images/e3.jpg",
+    desc: [{ text: "We assist businesses in developing effective data strategies to make informed decisions and gain insights from their data" }, { text: "Our data science expertise enables us to analyze complex datasets, identify trends, and provide actionable recommendations for improved business performance." }],
   },
   {
     id: 2,
-    title: "Digital Marketing",
+    title: "Process Automation",
     cover: "../images/e2.jpg",
-    desc: [{ text: "Social media marketing" }, { text: "Marketing campaigns" }, { text: "Markting management" }, { text: "SEO" }],
+    desc: [{ text: "We help streamline business processes by implementing automation solutions. We identify repetitive tasks and develop customized automation workflows to enhance efficiency, reduce errors, and save valuable time and resources." }],
   },
   {
     id: 3,
-    title: "E-Commerce",
-    cover: "../images/e3.jpg",
-    desc: [{ text: "E-Commerce website design" }, { text: "WooCommerce" }, { text: "Content management" }, { text: "Hosting" }],
+    title: "Web & App Development",
+    cover: "../images/e1.jpg",
+    desc: [{ text: "Our team of skilled developers creates tailored web and mobile applications to meet specific business requirements." }, { text: "We design and develop intuitive user interfaces, robust backend systems, and seamless integrations, ensuring a smooth digital experience for both clients and end-users." }],
   },
   {
     id: 4,
-    title: "Branding & Creative Services",
+    title: "Targeted & Paid Ads",
     cover: "../images/e4.jpg",
-    desc: [{ text: "Visual identity" }, { text: "Branding for social media" }, { text: "Custom illustrations" }],
+    desc: [{ text: "By leveraging data analysis and market research, we help identify the most effective advertising channels, develop compelling ad content, and optimize campaigns for maximum impact and return on investment." }],
   },
 ]
 export const testimonial = [
   {
     id: 1,
-    name: "Alexander Black",
+    name: "Shan ul Haq",
     cover: "../images/e1.jpg",
-    post: "Seven consulting - CEO",
-    desc: "Nunc fermentum - tempus erat ligula, sit amet lacinia justo cursus ac. Suspendisse quis nulla tincidunt! Lorem ipsum dolor amet at ornare ex, quis fringilla tortor! Nunc consectetur feugiat rutrum. Sed rhoncus sapien!",
+    post: "CTO @ Xpert Solutions",
+    desc: "Working with Scale Inc. has been an incredible experience. They truly went above and beyond to understand our needs and deliver a solution that exceeded our expectations. Their dedication, expertise, and attention to detail ensured a seamless implementation, and their ongoing support has been exceptional. We highly recommend Scale Inc. for their commitment to client satisfaction",
   },
   {
     id: 2,
-    name: "Diana Green",
+    name: "David Broome",
     cover: "../images/e2.jpg",
-    post: "Seven Arts - marketing manager",
-    desc: "Cras at ornare fermentum quam et tortor euismod, vel maximus metus tristique at ornare ex, quis fringilla tortor. Aenean semper neque quis consectetur lobortis. Quisque nec convallis ex. Aenean ut metus et nunc cursus aliquet.",
-  },
-  {
-    id: 3,
-    name: "Alexander Black",
-    cover: "../images/e3.jpg",
-    post: "Seven consulting - CEO",
-    desc: "Nunc fermentum - tempus erat ligula, sit amet lacinia justo cursus ac. Suspendisse quis nulla tincidunt! Lorem ipsum dolor amet at ornare ex, quis fringilla tortor! Nunc consectetur feugiat rutrum. Sed rhoncus sapien!",
-  },
-  {
-    id: 4,
-    name: "Diana Green",
-    cover: "../images/e4.jpg",
-    post: "Seven Arts - marketing manager",
-    desc: "Cras at ornare fermentum quam et tortor euismod, vel maximus metus tristique at ornare ex, quis fringilla tortor. Aenean semper neque quis consectetur lobortis. Quisque nec convallis ex. Aenean ut metus et nunc cursus aliquet.",
-  },
+    post: "Director @ Red Frame",
+    desc: "We are grateful for Scale Inc.'s exceptional service and commitment to our success. Their team demonstrated a deep understanding of our industry and tailored their solutions to meet our specific requirements. Their responsiveness, technical proficiency, and proactive approach made the entire process a breeze. We couldn't be happier with the outcome and highly recommend Scale Inc. for any IT needs. ",
+  }
 ]
 export const showcase = [
   {
     id: 1,
-    title: "Neon Lights",
-    cover: "../images/s1.jpg",
-    catgeory: "DIGITAL MARKETING",
+    title: "Process Automation for HR",
+    cover: "../images/process-automation.png",
+    catgeory: "Process Automation",
   },
   {
     id: 2,
-    title: "Futuristic Furniture",
-    catgeory: "WEBSITES",
-    cover: "../images/s2.jpg",
+    title: "Mobile App Development",
+    catgeory: "Mobile App Development",
+    cover: "../images/mobile-app-development.png",
   },
   {
     id: 3,
-    title: "Smart Living",
-    cover: "../images/s3.jpg",
-    catgeory: "WEBSITES",
-  },
-  {
-    id: 4,
-    title: "Light Painting",
-    cover: "../images/s4.jpg",
-    catgeory: "BRANDING	",
-  },
-  {
-    id: 5,
-    title: "Ideabox",
-    cover: "../images/s5.jpg",
-    catgeory: "BRANDING	",
-  },
-  {
-    id: 5,
-    title: "VR Experience",
-    cover: "../images/s6.jpg",
-    catgeory: "WEBSITES	",
-  },
+    title: "Machine Learning Based Ad Targeting",
+    cover: "../images/machine-learning.png",
+    catgeory: "Automation",
+  }
 ]
 export const brand = [
   {

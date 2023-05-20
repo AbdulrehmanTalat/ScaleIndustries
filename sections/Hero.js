@@ -12,8 +12,9 @@ const Hero = () => {
     <>
       <section className='hero'>
         <div className='container'>
-          <TitleLogo title='creative' caption='7' className='logobg' />
-          <h1 className='hero-title'>WE BUILD DIGITAL EXPERIENCES</h1>
+          {/* <TitleLogo title='creative' caption='7' className='logobg' /> */}
+          <img src="/images/scaleinclogo.png" alt="Scale Inc Logo" height={150} width={220} />
+          <h1 className='hero-title'>Accelerating growth</h1>
 
           <div className='sub-heading'>
             <TitleSm title='WEBSITES' /> <span>.</span>
@@ -26,7 +27,7 @@ const Hero = () => {
         <div className='container'>
           <div className='heading-title'>
             <Title title='The last digital agency you ll ever need' />
-            <p>Suspendisse ut magna porttitor, sollicitudin ligula at, molestie dolor. Vivamus a ligula ut velit placerat egestas at id leo. Nulla ac volutpat nunc. Nulla facilisi. Pellentesque tempus tellusut magna porttitor scelerisque.</p>
+            <p>We help businesses with their data strategy, automation and marketing needs so they can focus on growing their businesses. </p>
           </div>
           <div className='hero-content grid-4'>
             {home.map((item, i) => (
@@ -43,11 +44,11 @@ const Hero = () => {
       <Banner />
       <Testimonial />
       <ShowCase />
-      <Brand />
+      {/* <Brand /> */}
 
-      <div className='text-center'>
+      {/* <div className='text-center'>
         <Title title='Latest news & articles' />
-      </div>
+      </div> */}
       
     </>
   )

@@ -10,36 +10,36 @@ const Footer = () => {
         <div className='container'>
           <div className='grid-4'>
             <div className='logo'>
-              <TitleLogo title='creative' caption='7' className='logobg' />
+            <img src="/images/scaleinclogo.png" alt="Scale Inc Logo" height={150} width={220} />
               <br />
               <span>
-                Questions? Reach us <br /> Monday – Friday from 9 am to 6 pm
+                Questions? Reach us <br /> Monday – Saturday from 9 am to 8 pm
               </span>
               <br />
               <br />
-              <h3>+1 001 234 5678</h3>
+              <h3>+92 334 4194344</h3>
               <br />
               <button className='button-primary'>Request for quote</button>
             </div>
             <ul>
               <h3>COMPANY</h3>
               <li>
-                <Link href='/'>About agency</Link>
+                <Link href='/agency'>About agency</Link>
               </li>
-              <li>
+              {/* <li>
                 <Link href='/'>Our team</Link>
-              </li>
+              </li> */}
               <li>
-                <Link href='/'>Showcase</Link>
+                <Link href='/showcase'>Showcase</Link>
               </li>
-              <li>
+              {/* <li>
                 <Link href='/'>Blog</Link>
-              </li>
-              <li>
+              </li> */}
+              {/* <li>
                 <Link href='/'>Demo design system</Link>
-              </li>
+              </li> */}
               <li>
-                <Link href='/'>Contact</Link>
+                <Link href='/contact'>Contact</Link>
               </li>
             </ul>
             <ul>
@@ -85,10 +85,10 @@ const Footer = () => {
           </div>
           <div className='legal connect py'>
             <div className='text'>
-              <span>© 2023 THE SEVEN. ALL RIGHTS RESERVED.</span>
+              <span>© 2023 THE Scale Inc. ALL RIGHTS RESERVED.</span>
             </div>
             <div className='connect'>
-              <span>GORKCODER COMPANY</span>
+              <span>Scale Inc</span>
               <span> &nbsp; | &nbsp; </span>
               <span>TERMS & CONDITIONS</span>
             </div>

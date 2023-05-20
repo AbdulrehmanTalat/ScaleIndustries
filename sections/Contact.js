@@ -21,24 +21,29 @@ const Contact = () => {
               <div className='contact-deatils'>
                 <div className='box'>
                   <FiHeadphones size={30} className='icons' />
-                  <h3>1-001-234-5678</h3>
-                  <span>Call us: Mon - Fri 9:00 - 19:00</span>
+                  <h3>+92 334 4194344</h3>
+                  <span>Call us: Mon - Saturday 9:00 - 20:00</span>
                 </div>
                 <div className='box'>
                   <IoLocationOutline size={30} className='icons' />
-                  <h3>New York</h3>
-                  <span>990 Madison Ave, Midtown Manhattan, 2th Floor, NY 10022</span>
+                  <h3>Pakistan</h3>
+                  <span>Gulshan e lahore</span>
+                </div>
+                <div className='box'>
+                  <IoLocationOutline size={30} className='icons' />
+                  <h3>Austrailia</h3>
+                  <span>Melburne</span>
                 </div>
                 <div className='box'>
                   <FiHelpCircle size={30} className='icons' />
                   <h3>info@dream-theme.com</h3>
                   <span>Drop us a line anytime!</span>
                 </div>
-                <div className='box'>
+                {/* <div className='box'>
                   <BiUserCircle size={30} className='icons' />
                   <h3>hr@dream-theme.com</h3>
                   <span>Career at Seven Creative</span>
-                </div>
+                </div> */}
               </div>
               <ul>
                 <li className='icon'>
