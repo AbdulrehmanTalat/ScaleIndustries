@@ -10,7 +10,7 @@ const Footer = () => {
         <div className='container'>
           <div className='grid-4'>
             <div className='logo'>
-            <img src="/images/scaleinclogo.png" alt="Scale Inc Logo" height={150} width={220} />
+            <img src="/images/scaleinclogo.png" alt="Scale Inc Logo" height={30} width={180} />
               <br />
               <span>
                 Questions? Reach us <br /> Monday – Saturday from 9 am to 8 pm

@@ -18,7 +18,7 @@ const Header = () => {
       <header>
         <div className='container'>
               {/* <TitleLogo title='creative' caption='7' className='logomin' /> */}
-              <img src="/images/scaleinclogo.png" alt="Scale Inc Logo" height={120} width={180}/>
+              <img src="/images/scaleinclogo.png" alt="Scale Inc Logo" height={30} width={180}/>
           <nav className={open ? "openMenu" : "closeMenu"} onClick={() => setOpen(null)}>
             <Link href='/' className={activeLink == "/" ? "activeLink" : "none"}>
               Home
