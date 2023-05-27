@@ -32,7 +32,7 @@ const Contact = () => {
                 <div className='box'>
                   <IoLocationOutline size={30} className='icons' />
                   <h3>Austrailia</h3>
-                  <span>Melburne</span>
+                  <span>Melburne -</span>
                 </div>
                 <div className='box'>
                   <FiHelpCircle size={30} className='icons' />
