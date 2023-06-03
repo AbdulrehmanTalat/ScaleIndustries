@@ -17,8 +17,9 @@ const Hero = () => {
           <h1 className='hero-title'>Accelerating growth</h1>
 
           <div className='sub-heading'>
-            <TitleSm title='Data Strategy and Data Science' /> <span>.</span>
-            <TitleSm title='Web & App Development / Automation' /> <span>.</span>
+            <TitleSm title='Data Strategy' /> <span>.</span>
+            <TitleSm title='Web & App Development' /> <span>.</span>
+            <TitleSm title='Process Automation' /> <span>.</span>
             <TitleSm title='Digital Marketing' />
           </div>
         </div>
