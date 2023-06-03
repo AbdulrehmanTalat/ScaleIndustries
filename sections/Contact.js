@@ -21,7 +21,7 @@ const Contact = () => {
               <div className='contact-deatils'>
                 <div className='box'>
                   <FiHeadphones size={30} className='icons' />
-                  <h3>+92 334 4194344</h3>
+                  <h3>+61 401644105</h3>
                   <span>Call us: Mon - Saturday 9:00 - 20:00</span>
                 </div>
                 <div className='box'>
@@ -33,7 +33,7 @@ const Contact = () => {
                   <IoLocationOutline size={30} className='icons' />
                   <h3>Austrailia</h3>
                   <span>24 Southwell cresent Hamilton Hill WA 6163 -</span>
-                  <span>0401644105 -</span>
+                  <span>+61 401644105 -</span>
                 </div>
                 {/*<div className='box'>
                   <FiHelpCircle size={30} className='icons' />
