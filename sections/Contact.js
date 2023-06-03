@@ -32,13 +32,14 @@ const Contact = () => {
                 <div className='box'>
                   <IoLocationOutline size={30} className='icons' />
                   <h3>Austrailia</h3>
-                  <span>Melburne -</span>
+                  <span>24 Southwell cresent Hamilton Hill WA 6163 -</span>
+                  <span>0401644105 -</span>
                 </div>
-                <div className='box'>
+                {/*<div className='box'>
                   <FiHelpCircle size={30} className='icons' />
                   <h3>fawadinam23@gmail.com</h3>
                   <span>Drop us a line anytime!</span>
-                </div>
+  </div>*/}
                 {/* <div className='box'>
                   <BiUserCircle size={30} className='icons' />
                   <h3>hr@dream-theme.com</h3>

@@ -27,7 +27,7 @@ const Hero = () => {
       <section className='hero-sec'>
         <div className='container'>
           <div className='heading-title'>
-            <Title title='The last digital agency you ll ever need' />
+            <Title title='Navigate the Future with Data-driven Strategies and Dynamic Digital Solutions' />
             <p>We help businesses with their data strategy, automation and marketing needs so they can focus on growing their businesses. </p>
           </div>
           <div className='hero-content grid-4'>
