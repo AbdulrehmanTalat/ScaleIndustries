@@ -13,13 +13,14 @@ const Footer = () => {
             <img src="/images/scaleinclogo.png" alt="Scale Inc Logo" height={30} width={180} />
               <br />
               <span>
-                Questions? Reach us <br /> Monday – Saturday from 9 am to 8 pm
+                Questions? Reach us <br /> {/*Monday – Saturday from 9 am to 8 pm*/}
               </span>
               <br />
               <br />
+              <h3>contact@scaleinc.co</h3>
               <h3>+61 401644105</h3>
               <br />
-              <button className='button-primary'>Request for quote</button>
+              <button className='button-primary'>Book Consultation</button>
             </div>
             <ul>
               <h3>COMPANY</h3>
